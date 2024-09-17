@@ -1,4 +1,4 @@
-def rectangle_area(length=2, width=3):
+def rectangle_area(length, width=5):
     """Return a rectangle's area."""
     return length * width
-print(rectangle_area(width=5))
+print(rectangle_area(3,10))
